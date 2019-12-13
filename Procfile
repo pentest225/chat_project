@@ -1,0 +1,1 @@
+web: chat_project.wsgi
