@@ -25,7 +25,7 @@ SECRET_KEY = 'cx3z==36d0@!f#47@#9+t(^)@waiyy=04z&+-ny^zia$(pak_5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['whatnan.herokuapp.com','127.0.0.1']
 
 
 # Application definition
